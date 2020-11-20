@@ -1,0 +1,57 @@
+.title {
+  width: 200px;
+  height: 24px;
+  /*margin: 29px 1305px 27px 23px;*/
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.3;
+  letter-spacing: normal;
+  text-align: left;
+  color: #32363a;
+}
+.TCPBackground {
+  width: 1440px;
+  height: 80px;
+  margin: 0 0 22px;
+  padding: 22px 18px 22px 23px;
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.3);
+  background-color: #ffffff;
+}
+.button-10-12 {
+  width: 147px;
+  height: 36px;
+  margin: -24px 68px 22px 1000px;
+  padding: 10px 10px 9px;
+  background-color: #8241ff;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.21;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  float: right;
+}
+.ag-cell {
+  overflow: visible;
+}
+
+.ag-row {
+  z-index: 0;
+}
+
+.ag-row.ag-row-focus {
+  z-index: 1;
+}
+.ag-root.ag-layout-auto-height,
+.ag-body-viewport.ag-layout-auto-height,
+.ag-body-viewport-wrapper.ag-layout-auto-height {
+  overflow: visible;
+}
+
+.btn {
+  line-height: 0.5;
+}
