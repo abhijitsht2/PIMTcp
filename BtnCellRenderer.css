@@ -1,0 +1,49 @@
+.dropdbtn {
+  padding: 16px;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.06;
+  letter-spacing: normal;
+  text-align: center;
+  color: #32363a;
+  width: 36px;
+  height: 36px;
+  padding: 10px;
+  border-radius: 4px;
+  border: solid 1px #32363a;
+  background-color: #ebf7ff;
+}
+
+.actionDropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.actiondropdown-content {
+  position: relative;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+  width: 105px;
+  height: 232px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.3);
+  background-color: #ffffff;
+}
+
+ul li a {
+  padding: 9px 9px 10px;
+}
+
+.actiondropdown-content a {
+  color: black;
+  text-decoration: none;
+  display: block;
+}
+.contentInvisible {
+  display: none;
+}
+
+.contentVisible {
+  display: block;
+}
